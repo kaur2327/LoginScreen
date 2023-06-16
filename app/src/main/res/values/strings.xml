@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">LoginScreen</string>
+    <string name="LOGIN">Login</string>
+    <string name="Email">Email</string>
+    <string name="ForgotPassword">\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nForgotPassword\n\n\n</string>
+    <string name="FORGOTPASSWORD">FORGOTPASSWORD</string>
+    <string name="Register">Register</string>
+    <string name="Forgotpassword">Forgotpassword</string>
+    <string name="Name">Name</string>
+    <string name="MobileNumber">MobileNumber</string>
+    <string name="Password">Password</string>
+    <string name="ConfirmPassword">ConfirmPassword</string>
+    <string name="SignIn">SignIn</string>
+    <string name="ResetPasssword">ResetPassword</string>
+    <string name="Update">Update</string>
+    <string name="Genarate_OTP">Genrate_OTP</string>
+    <string name="Number_one">Number_one</string>
+    <string name="Verification_Code">verificationcode</string>
+    <string name="VERIFICATION_CODE">VERIFICATION CODE</string>
+    <string name="Verify">Verify</string>
+    <string name="VERIFICATION_PASSWORD">VERIFICATION_PASSWORD</string>
+</resources>
